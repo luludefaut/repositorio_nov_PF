@@ -1,1 +1,2 @@
-
+feat: Ao clicar em "tecnologias.txt" será exibido uma lista das tecnologias a serem utilizadas
+Adiciona o item JAVASCRIPT a lista de tecnologias anterior.
