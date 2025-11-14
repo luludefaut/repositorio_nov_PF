@@ -1,3 +1,3 @@
-Luca Mendes Azevedo - membro 1: editor do repositório e gerenciador de modificações.
+Luca Mendes Azevedo - membro 1: responsavel por editar o repositório e gerenciador de modificações.
 Eloah Veiga Queiroz - membro 2: editora de funcionalidades.
 Saulo Farias dos Santos - membro 3: editor de tecnologias e criador do arquivo config_ambiente.md.
